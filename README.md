@@ -29,7 +29,7 @@ A quick look at the top-level files and directories you'll see in this project.
 
 ## 🚀 Getting Started!
 
-#### **📢 IMPORTANT FOR THE FUNCTIONING OF THE BOT:**
+#### **📢 IMPORTANT FOR MAKING THE BOT WORK:**
 Replace all text components in the file `index.js` that contained by `%`.
 
 > Example:
