@@ -27,9 +27,9 @@ A quick look at the top-level files and directories you'll see in this project.
 
 4. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
-## Getting Started
+## 🚀 Getting Started!
 
-#### **⚠️ IMPORTANT FOR THE FUNCTIONING OF THE BOT:**
+#### **📢⚠ IMPORTANT FOR THE FUNCTIONING OF THE BOT:**
 Replace all text components in the file `index.js` that contain and are enclosed by `%`.
 
 
