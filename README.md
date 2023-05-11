@@ -32,13 +32,17 @@ A quick look at the top-level files and directories you'll see in this project.
 #### **📢 IMPORTANT FOR THE FUNCTIONING OF THE BOT:**
 Replace all text components in the file `index.js` that contain and are enclosed by `%`.
 
-
 > Example:
+> 
 > `%IP_ADDRESS%` &#8594; `192.168.1.1`
+
+Install dependencies
 
 ```bash
   npm i
 ```
+Start bot
+
 ```bash
   node index
 ```
