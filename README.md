@@ -1,6 +1,5 @@
 <p align="center">
-  <img alt="Telegram logo" src="https://www.vhv.rs/dpng/d/492-4925781_telegram-free-download-and-circle-twitter-logo-png.png" width="100" />
-  <img alt="WOL logo" src="https://downloadr2.apkmirror.com/wp-content/uploads/2019/03/5c878b5f9fa8c.png" width="100" />
+  <img alt="Telegram logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="100" />
 </p>
 <h1 align="center">
   Wake on LAN Bot
