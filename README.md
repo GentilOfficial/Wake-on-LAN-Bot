@@ -34,7 +34,7 @@ Replace all text components in the file `index.js` that contained by `%`.
 
 > Example:
 > 
-> `%IP_ADDRESS%` &#8594; `192.168.1.1`
+> const ip=`%IP_ADDRESS%` &#8594; const ip='`192.168.1.1`'
 
 
 ### Install dependencies
