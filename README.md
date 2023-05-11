@@ -36,5 +36,9 @@ Replace all text components in the file `index.js` that contain and are enclosed
 > Example:
 > `%IP_ADDRESS%` &#8594; `192.168.1.1`
 
-1. ```bash npm i ```
-2. ```bash node index ```
+```bash
+  npm i
+```
+```bash
+  node index
+```
