@@ -29,11 +29,15 @@ A quick look at the top-level files and directories you'll see in this project.
 
 ## Getting Started
 
-`npm i`
-
 > ⚠️ **IMPORTANT FOR THE FUNCTIONING OF THE BOT:**
 >
 > Replace all text components in the file `index.js` that contain and are enclosed by `%`.
-> 
+
+
 > Example:
+> 
 > `%IP_ADDRESS%` &#8594; `192.168.1.1`
+
+1. `npm i`
+
+2. `node index`
