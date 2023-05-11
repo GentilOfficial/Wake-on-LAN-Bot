@@ -36,13 +36,14 @@ Replace all text components in the file `index.js` that contained by `%`.
 > 
 > `%IP_ADDRESS%` &#8594; `192.168.1.1`
 
-Install dependencies
+
+### Install dependencies
 
 ```bash
   npm i
 ```
 
-Start bot
+### Start bot
 
 ```bash
   node index
