@@ -21,7 +21,7 @@ A quick look at the top-level files and directories you'll see in this project.
 
 1. **`README.md`**: A text file containing useful reference information about your project.
 
-2. **`index.js`**: Main file containing the code for the bot's operation..
+2. **`index.js`**: Main file containing the code for the bot's operation.
 
 3. **`package-lock.json`**: This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project.
 
