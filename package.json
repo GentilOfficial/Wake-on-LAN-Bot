@@ -1,0 +1,24 @@
+{
+  "name": "cookiebot",
+  "version": "1.0.0",
+  "description": "cookie telegram bot manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "async"
+  ],
+  "author": "Federico Gentili",
+  "license": "ISC",
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.33.2",
+    "@influxdata/influxdb-client-apis": "^1.33.2",
+    "ping": "^0.4.4",
+    "ping-wrapper": "^0.0.3",
+    "telegraf": "^4.12.2",
+    "wol": "^1.0.7"
+  }
+}
