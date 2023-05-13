@@ -32,12 +32,11 @@ A quick look at the top-level files and directories you'll see in this project.
 #### **📢 IMPORTANT FOR MAKING THE BOT WORK:**
 Replace all text components in the file `index.js` that contained by `%`.
 
-It is obvious but also important that the BOT resides in an always-on host (e.g., a Raspberry Py).
-
 > Example:
 > 
 > const ip=`%IP_ADDRESS%` &#8594; const ip='`192.168.1.1`'
 
+It is obvious but also important that the BOT resides in an always-on host (e.g., a Raspberry Py).
 
 ### Install dependencies
 
