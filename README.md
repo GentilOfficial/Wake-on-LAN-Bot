@@ -5,7 +5,7 @@
   Wake on LAN Bot
 </h1>
 <p align="center">
-  Telegram bot that allows the PC to be switched on remotely with a Wake on LAN.
+  Telegram bot that allows the PC to be switched on remotely with a Wake on LAN (Italian 🇮🇹 version).
 </p>
 
 ## 🔍 What's inside?
